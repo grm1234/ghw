@@ -1,5 +1,6 @@
 # ghw
     Submission for the Blog web pages project.
+    
     This project was very fun (and very frustrating at times). It was my first time ever creating a web page. 
 It was a good refresher for JavaScript and Html. I am getting much more comfortable with them now. When it 
 comes to Bootstrap and Css, I was a little shaky at first considering Ive never used them on my own. 
